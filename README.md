@@ -1,6 +1,6 @@
-# TIL (Today I Learned)
+# K-Digital-Training
 
-어제의 나보다 나은 오늘을....
 
-## 대문에 들어갈 내용들!
+
+2021.5 ~ 2021.10
 
